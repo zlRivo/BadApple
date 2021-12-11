@@ -1,0 +1,4 @@
+# Dependencies
+
+* ncurses
+* ffmpeg
